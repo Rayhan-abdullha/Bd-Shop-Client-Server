@@ -1,0 +1,19 @@
+.search-bar input {
+    border: 0;
+    width: 300px;
+    padding: 13px;
+}
+.search-bar button {
+    border: 0;
+    padding: 13px;
+    width: 120px;
+    background: #ffc107;
+    color: #fff;
+}
+.home-bg {
+    background-color: #f3f3f3
+}
+.search-bar {
+    margin-bottom: 40px;
+    padding-top: 40px;
+}

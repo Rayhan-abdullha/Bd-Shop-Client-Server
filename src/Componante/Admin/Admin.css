@@ -1,0 +1,14 @@
+.admin-page ul {
+    list-style: none;
+}
+.admin-page ul li {
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.admin-page ul li a {
+    text-decoration: none;
+    font-weight: 700;
+    color: #565656;
+    font-size: 22px;
+}

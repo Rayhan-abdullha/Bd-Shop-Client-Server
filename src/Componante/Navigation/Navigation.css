@@ -1,0 +1,27 @@
+.header {
+    padding: 20px;
+    overflow: hidden;
+}
+a.navbar-brand {
+    font-weight: 600;
+}
+.navbar-nav a {
+    font-weight: 500;
+}
+.ml-auto.navbar-nav span {
+    line-height: 36px;
+    color: #28a745;
+    font-weight: 700;
+    padding-right: 17px;
+}
+
+@media only screen and (max-width: 992px) {
+    a.loginBtn {
+        margin-right: 25px;
+    }
+    div#basic-navbar-nav {
+        background: #f3f3f3;
+        padding: 20px;
+        margin-top: 5px;
+    }
+  }

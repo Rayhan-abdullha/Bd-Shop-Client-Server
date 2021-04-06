@@ -1,0 +1,16 @@
+.single-service img {
+    width: 100%;
+    margin-bottom: 20px
+}
+.single-service {
+    padding: 50px;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    background-color: #fff;
+    box-shadow: 0px 4px 9px 0 #c7c7c7;
+}
+.single-service h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+    min-height: 120px;
+}
